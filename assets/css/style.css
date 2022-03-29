@@ -1223,7 +1223,7 @@ body .modal-backdrop {
 }
 
 .gamfi-about-secion .targeted-raise .all-raise {
-    font-family: "Inter", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-about-secion .total-price,
@@ -2890,7 +2890,7 @@ body .modal-backdrop {
 }
 
 .gamfi-farming-table tr th {
-    font-family: "Inter", sans-serif;
+    font-family: 'Bw Modelica SS02';
     color: rgba(255, 255, 255, 0.7);
     font-weight: 400;
     text-transform: uppercase;
@@ -3424,7 +3424,7 @@ body .modal-backdrop {
 
 .gamfi-form-content .address-form .icon-input-box input {
     padding-left: 80px;
-    font-family: "Inter", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-form-content .address-form .project-btn-area {
