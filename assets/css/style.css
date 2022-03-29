@@ -64,28 +64,36 @@
     font-family: 'Bw Modelica SS02';
     font-style: normal;
     font-weight: 500;
-        src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Medium.otf") format('opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Medium.eot");
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Medium.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Medium.woff") format('woff');
 }
 
 @font-face {
     font-family: 'Bw Modelica SS02';
     font-style: normal;
     font-weight: 700;
-        src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Bold.otf") format('opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Bold.eot");
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Bold.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Bold.woff") format('woff');
 }
 
 @font-face {
     font-family: 'Bw Modelica SS02';
     font-style: normal;
     font-weight: 800;
-       src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-ExtraBold.otf") format('opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-ExtraBold.eot");
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-ExtraBold.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-ExtraBold.woff") format('woff');
 }
 
 @font-face {
     font-family: 'Bw Modelica SS02';
     font-style: normal;
     font-weight: 900;
-       src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Black.otf") format('opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Black.eot");
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Black.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Black.woff") format('woff');
 }
 
 /* -----------------------------------/
