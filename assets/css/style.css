@@ -68,9 +68,12 @@
     font-family: 'Bw Modelica SS02', sans-serif;
     font-style: normal;
     font-weight: 400;   
-    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Regular.eot") format('embedded-opentype');
-    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.otf") format('opentype'),
-    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Regular.woff") format('woff');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Regular.eot");
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Regular.eot?#iefix") format('embedded-opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.ttf") format('truetype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Regular.woff") format('woff'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff2/BwModelicaSS02-Regular.woff2") format('woff2');
 }
 
 @font-face {
