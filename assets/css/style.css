@@ -427,7 +427,7 @@ body .modal-backdrop {
 
 .gamfi-header-section .heaader-inner-area ul li ul li a {
     display: block;
-    background: #222231;
+    background: #132209;
     font-size: 16px;
     font-family: 'Bw Modelica SS02';
     color: rgba(255, 255, 255, 0.7);
@@ -444,7 +444,7 @@ body .modal-backdrop {
 }
 
 .gamfi-header-section .heaader-inner-area ul li ul li a:hover {
-    color: #fff;
+    color: #E0B43D;
 }
 
 .gamfi-header-section .heaader-inner-area ul li:hover ul {
