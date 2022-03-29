@@ -1,20 +1,20 @@
-@import url("/assets/fonts/otf/BwModelicaSS02-Regular.otf");
-@import url("/assets/fonts/otf/BwModelicaSS02-Medium.otf");
-@import url("/assets/fonts/otf/BwModelicaSS02-Bold.otf");
-@import url("/assets/fonts/otf/BwModelicaSS02-ExtraBold.otf");
-@import url("/assets/fonts/otf/BwModelicaSS02-Black.otf");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.otf");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Medium.otf");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Bold.otf");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-ExtraBold.otf");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Black.otf");
 
-@import url("/assets/fonts/woff/BwModelicaSS02-Regular.woff");
-@import url("/assets/fonts/woff/BwModelicaSS02-Medium.woff");
-@import url("/assets/fonts/woff/BwModelicaSS02-Bold.woff");
-@import url("/assets/fonts/woff/BwModelicaSS02-ExtraBold.woff");
-@import url("/assets/fonts/woff/BwModelicaSS02-Black.woff");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Regular.woff");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Medium.woff");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Bold.woff");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-ExtraBold.woff");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Black.woff");
 
-@import url("/assets/fonts/eot/BwModelicaSS02-Regular.eot");
-@import url("/assets/fonts/eot/BwModelicaSS02-Medium.eot");
-@import url("/assets/fonts/eot/BwModelicaSS02-Bold.eot");
-@import url("/assets/fonts/eot/BwModelicaSS02-ExtraBold.eot");
-@import url("/assets/fonts/eot/BwModelicaSS02-Black.eot");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Regular.eot");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Medium.eot");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Bold.eot");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-ExtraBold.eot");
+@import url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Black.eot");
 @charset "utf-8";
 
 /** 
@@ -55,45 +55,45 @@
     font-family: 'Bw Modelica SS02', sans-serif;
     font-style: normal;
     font-weight: 400;   
-    src: url("/assets/fonts/eot/BwModelicaSS02-Regular.eot");
-    src: url("/assets/fonts/otf/BwModelicaSS02-Regular.otf") format('opentype'),
-    url("/assets/fonts/woff/BwModelicaSS02-Regular.woff") format('woff');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Regular.eot") format('embedded-opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Regular.woff") format('woff');
 }
 
 @font-face {
     font-family: 'Bw Modelica SS02', sans-serif;
     font-style: normal;
     font-weight: 500;
-    src: url("/assets/fonts/eot/BwModelicaSS02-Medium.eot");
-    src: url("/assets/fonts/otf/BwModelicaSS02-Medium.otf") format('opentype'),
-    url("/assets/fonts/woff/BwModelicaSS02-Medium.woff") format('woff');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Medium.eot") format('embedded-opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Medium.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Medium.woff") format('woff');
 }
 
 @font-face {
     font-family: 'Bw Modelica SS02', sans-serif;
     font-style: normal;
     font-weight: 700;
-    src: url("/assets/fonts/eot/BwModelicaSS02-Bold.eot");
-    src: url("/assets/fonts/otf/BwModelicaSS02-Bold.otf") format('opentype'),
-    url("/assets/fonts/woff/BwModelicaSS02-Bold.woff") format('woff');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Bold.eot") format('embedded-opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Bold.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Bold.woff") format('woff');
 }
 
 @font-face {
     font-family: 'Bw Modelica SS02', sans-serif;
     font-style: normal;
     font-weight: 800;
-    src: url("/assets/fonts/eot/BwModelicaSS02-ExtraBold.eot");
-    src: url("/assets/fonts/otf/BwModelicaSS02-ExtraBold.otf") format('opentype'),
-    url("/assets/fonts/woff/BwModelicaSS02-ExtraBold.woff") format('woff');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-ExtraBold.eot") format('embedded-opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-ExtraBold.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-ExtraBold.woff") format('woff');
 }
 
 @font-face {
     font-family: 'Bw Modelica SS02', sans-serif;
     font-style: normal;
     font-weight: 900;
-    src: url("/assets/fonts/eot/BwModelicaSS02-Black.eot");
-    src: url("/assets/fonts/otf/BwModelicaSS02-Black.otf") format('opentype'),
-    url("/assets/fonts/woff/BwModelicaSS02-Black.woff") format('woff');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Black.eot") format('embedded-opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Black.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Black.woff") format('woff');
 }
 
 /* -----------------------------------/
