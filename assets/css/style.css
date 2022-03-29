@@ -117,7 +117,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     color: #ffffff;
     margin: 0 0 26px;
     line-height: 1.35;
@@ -156,7 +156,7 @@ h6 {
     font-size: 16px;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .sec-heading .heading-left-image {
@@ -292,7 +292,7 @@ body .modal-backdrop {
     text-transform: uppercase;
     position: relative;
     transition: all 0.4s ease-in-out;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .menu-area .readon {
@@ -429,7 +429,7 @@ body .modal-backdrop {
     display: block;
     background: #222231;
     font-size: 16px;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     color: rgba(255, 255, 255, 0.7);
     padding: 15px 24px;
     transition: 0.4s;
@@ -667,7 +667,7 @@ body .modal-backdrop {
     padding: 10px 0;
     line-height: 30px;
     width: 100%;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-header-section .mobile-navbar-menu .nav-menu li li a {
@@ -925,7 +925,7 @@ body .modal-backdrop {
     text-transform: uppercase;
     position: relative;
     transition: all 0.4s ease-in-out;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     background: #E0B43D;
     color: #090a1a;
     padding: 19px 50px;
@@ -957,7 +957,7 @@ body .modal-backdrop {
     text-transform: uppercase;
     margin-right: 24px;
     position: relative;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-breadcrumbs-section .breadcrumbs-link:before {
@@ -983,7 +983,7 @@ body .modal-backdrop {
 .gamfi-breadcrumbs-section .breadcrumbs-form .breadcrumbs-social a {
     color: #B8B8BD;
     text-transform: uppercase;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-breadcrumbs-section .breadcrumbs-form .breadcrumbs-social a i {
@@ -1086,7 +1086,7 @@ body .modal-backdrop {
     border: 1px solid #2E2F3C;
     color: #fff;
     padding: 10px 20px;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     text-transform: uppercase;
     transition: 0.4s;
 }
@@ -1209,7 +1209,7 @@ body .modal-backdrop {
 .gamfi-about-secion .text-content,
 .gamfi-about-secion .allocation,
 .gamfi-about-secion .targeted-raise {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-about-secion .game-price-inner,
@@ -1219,7 +1219,7 @@ body .modal-backdrop {
 }
 
 .gamfi-about-secion .total-price .all-raise {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-about-secion .targeted-raise .all-raise {
@@ -1570,7 +1570,7 @@ body .modal-backdrop {
     padding: 12px 25px 8px;
     text-transform: uppercase;
     transition: 0.4s;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     overflow: hidden;
     display: block;
 }
@@ -1648,7 +1648,7 @@ body .modal-backdrop {
     color: #fff;
     padding: 12px 20px;
     border-color: #303244;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     text-transform: uppercase;
     border: 1px solid #303244;
     outline: none;
@@ -1741,7 +1741,7 @@ body .modal-backdrop {
     color: #fff;
     padding: 12px 20px;
     border-color: #303244;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     text-transform: uppercase;
 }
 
@@ -1769,7 +1769,7 @@ body .modal-backdrop {
 .project-details-conent .project-item .big-text {
     font-size: 30px;
     color: #a3ff12;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     position: absolute;
     right: 0;
     top: -10px;
@@ -1812,7 +1812,7 @@ body .modal-backdrop {
     background: #313245;
     transition: 0.4S;
     text-transform: uppercase;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     padding-left: 30px;
     padding-right: 30px;
     width: 170px;
@@ -1909,7 +1909,7 @@ body .modal-backdrop {
 .project-details-conent table .table-header {
     background: #1e1f35;
     text-transform: uppercase;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .project-details-conent table .table-header th {
@@ -2010,7 +2010,7 @@ body .modal-backdrop {
     background: transparent;
     padding: 0;
     color: rgba(255, 255, 255, 0.7);
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     margin-bottom: 25px;
 }
 
@@ -2103,7 +2103,7 @@ body .modal-backdrop {
 
 .project-menu-area .project-left-menu .tab-link {
     background: transparent;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     position: relative;
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.7);
@@ -2259,7 +2259,7 @@ body .modal-backdrop {
 }
 
 .gamfi-previous-section .previous-mainmenu .menu-list {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-previous-section .previous-mainmenu .menu-list .date-list {
@@ -2343,7 +2343,7 @@ body .modal-backdrop {
 }
 
 .gamfi-previous-section .form-switch {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     text-transform: uppercase;
     transition: 0.4s;
     cursor: pointer;
@@ -2732,7 +2732,7 @@ body .modal-backdrop {
     color: #fff;
     transition: 0.4S;
     text-transform: uppercase;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     position: relative;
     z-index: 3;
 }
@@ -2787,7 +2787,7 @@ body .modal-backdrop {
 .gamfi-farming-content .expeand-centent .unit {
     color: #a3ff12;
     font-size: 22px;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 .gamfi-farming-content .icon-arrow_up {
@@ -2988,7 +2988,7 @@ body .modal-backdrop {
 }
 
 .leaderboard-table-list tr th {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     color: rgba(255, 255, 255, 0.7);
     font-weight: 400;
     text-transform: uppercase;
@@ -3069,7 +3069,7 @@ body .modal-backdrop {
 }
 
 .igo-rankging-table-list tr th {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     color: rgba(255, 255, 255, 0.7);
     font-weight: 400;
     text-transform: uppercase;
@@ -3106,7 +3106,7 @@ body .modal-backdrop {
 .gamfi-tokenomics-section .tokenomics-counter .counter-number {
     font-size: 36px;
     color: #E0B43D;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     display: block;
 }
 
@@ -3404,7 +3404,7 @@ body .modal-backdrop {
     position: absolute;
     left: 0;
     top: 0;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     color: rgba(255, 255, 255, 0.7);
     text-transform: uppercase;
 }
@@ -3432,7 +3432,7 @@ body .modal-backdrop {
 }
 
 .gamfi-form-content .address-form .project-btn-area input {
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     color: #fff;
     border: none;
     transition: 0.4s;
@@ -3583,7 +3583,7 @@ body .gamfi-explore-content .project-item {
 .gamfi-footer-section .footer-cta-area .footer-link input[type="submit"] {
     border: none;
     text-transform: uppercase;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
     padding: 17px 50px;
     position: relative;
     z-index: 3;
@@ -3762,7 +3762,7 @@ body .gamfi-explore-content .project-item {
 
 .modal-content .connect-section .heading-list li a {
     color: #fff;
-    font-family: "Russo One", sans-serif;
+    font-family: 'Bw Modelica SS02';
 }
 
 /*
