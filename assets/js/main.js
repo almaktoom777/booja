@@ -209,3 +209,20 @@
    });
 
 })(jQuery);
+
+var docEl = document.documentElement;
+docEl.className += " Bw Modelica SS02-loading";
+
+// This example uses a 1 second timeout,
+// adjust as needed.
+window.setTimeout(function() {
+	docEl.className += " Bw Modelica SS02-fallback";
+}, 1000);
+
+// Using the CSS Font Loading API
+Promise.all([
+	document.fonts.load("400 1em Bw Modelica SS02"),
+	document.fonts.load("700 1em Bw Modelica SS02")
+]).then(function () {
+	docEl.className += " Bw Modelica SS02-loaded";
+});
