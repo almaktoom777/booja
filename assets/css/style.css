@@ -188,6 +188,9 @@ a {
     outline: none !important;
 }
 
+
+
+
 a:active,
 a:hover {
     text-decoration: none;
@@ -896,10 +899,17 @@ body .modal-backdrop {
 .sc-banner .video-iconarea {
     position: relative;
 }
+.banner-content{
+
+    text-align: left!important;
+}
 
 .sc-banner .banner-content {
-    max-width: 700px;
-    margin: 0 auto;
+    max-width: 100%;
+    margin: auto auto;
+    font-family: 'Bw Modelica SS02', sans-serif;
+    color: #ffffff;
+   
 }
 
 .sc-banner .banner-content .banner-btn:hover .hover-shape1 {
