@@ -55,7 +55,9 @@
     font-family: 'Bw Modelica SS02';
     font-style: normal;
     font-weight: 400;   
-    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.otf") format('opentype');
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Regular.eot");
+    src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.otf") format('opentype'),
+    url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Regular.woff") format('woff');
 }
 
 @font-face {
