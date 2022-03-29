@@ -52,20 +52,20 @@
 20. Preloader CSS
 --------------------------------------------------------*/
 @font-face {
-    font-family: 'Bw Modelica SS02';
-    font-style: normal;
-    font-weight: bold;
-    font-display: swap;
-    src: url(https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelica-Bold.otf) format('opentype');
-}
+        font-family: "CustomFont";
+        src: url("https://yoursite.com/css/fonts/CustomFont.eot");
+        src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
+        url("https://yoursite.com/css/fonts/CustomFont.otf") format("opentype");
+        }
 
 @font-face {
-    font-family: 'Inter';
+    font-family: 'Bw Modelica SS02';
     font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf) format('truetype');
-}
+    font-weight: 400;
+    font-display: ;
+        src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/eot/BwModelicaSS02-Regular.eot");
+        src: url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff/BwModelicaSS02-Regular.woff") format("woff"),
+        url("https://github.com/almaktoom777/booja/blob/main/assets/fonts/otf/BwModelicaSS02-Regular.otf") format("opentype");
 
 @font-face {
     font-family: 'Inter';
