@@ -96,6 +96,19 @@
     url('https://github.com/almaktoom777/booja/blob/main/assets/fonts/woff2/BwModelicaSS02-Black.woff2') format('woff2');
 }
 
+.Bw Modelica SS02-loading body {
+	color: transparent;
+}
+.Bw Modelica SS02-fallback body,
+.Bw Modelica SS02-loaded body {
+	color: inherit;
+}
+.Bw Modelica SS02-fallback body {
+	font-family: serif;
+}
+.Bw Modelica SS02-loaded body {
+	font-family: 'Bw Modelica SS02', sans-serif;
+}
 /* -----------------------------------/
     01. Gamfi General CSS
 -------------------------------------*/
